@@ -1,0 +1,32 @@
+
+#imagem_capa{
+    background: url("img/capa.jpg");
+    height: 100%;
+    text-align: center;
+  
+}
+#titulo{
+    color:white;
+    padding-top: 15%;
+    font-size: 60px;
+    line-height: 0.8;
+}
+
+#subtitulo{
+    color: white;
+    font-size: 30px;
+    margin-left:20%;
+    margin-right: 20%;
+    border-top: 2px solid white;
+
+}
+#botao{
+    color:white;
+    font-size:20px;
+    border: 1px solid white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+   
+}
+
